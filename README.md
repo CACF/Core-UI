@@ -17,7 +17,6 @@ NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS 
 
 
 ## Documentation
-[Core-UI-API-Installation-Guide-1.0.0](https://github.com/dirbs/Documentation/blob/master/Core-UI/Core-UI-Installation-Guide-API-1.0.0.pdf)<br />
 [Core-UI-SPA-Installation-Guide-1.0.0.pdf](https://github.com/dirbs/Documentation/blob/master/Core-UI/Core-UI-Installation-Guide-SPA-1.0.0.pdf) <br />
 [Core-UI-User-Guide-1.0.0.pdf](https://github.com/dirbs/Documentation/blob/master/Core-UI/Core-UI-User-Guide-1.0.0.pdf)<br />
 
